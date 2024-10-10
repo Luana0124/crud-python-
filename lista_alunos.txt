@@ -1,0 +1,11 @@
+#.txt
+# banco de dados
+#SQLite
+
+#SQL 
+#linguagem de consulta estruturada
+
+#select*for clientes
+# nome, sobrenome,idade
+
+#ORM
